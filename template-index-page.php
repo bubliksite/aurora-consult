@@ -17,7 +17,7 @@ Version: 1.0
 <section id="start" class="pt-3">
     <header>
         <div class="container">
-            <nav class="navbar navbar-expand-lg" style="padding-left: 0">
+            <nav class="navbar navbar-expand-lg px-0">
                 <a class="navbar-brand" href="/"><img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt=""></a>
                 <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarContent">
                     <ul class="navbar-nav">
@@ -35,7 +35,7 @@ Version: 1.0
                         </li>
                     </ul>
                 </div>
-                <div class="navbar-toggler">
+                <div class="navbar-toggler px-0">
                     <img id="mobileMenuOpen" src="<?php echo get_template_directory_uri(); ?>/img/icon-mobile-menu.svg" alt="">
                 </div>
             </nav>
