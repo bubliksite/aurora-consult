@@ -4,12 +4,12 @@
             <div class="container">
                 <div class="d-md-flex justify-content-between align-items-end" style="font-size: 16px">
                     <div>
-                        <a class="pb-2 text-decoration-none text-white" href="mailto: info@auroraconsulting.ru">info@auroraconsulting.ru</a> <br>
-                        <a class="pb-2 text-decoration-none text-white" href="tel: 8-921-212-85-06">8-921-212-85-06</a> <br>
-                        <a class="text-decoration-none text-white" href="tel: 8-812-212-85-06">8-812-212-85-06</a>
+                        <a class="pb-2 text-decoration-none text-white" href="mailto: info@auroracons.io">Info@auroracons.io</a> <br>
+                        <a class="pb-2 text-decoration-none text-white" href="tel: 8-915-447-51-10">8-915-447-51-10</a><!-- <br>-->
+<!--                    <a class="text-decoration-none text-white" href="tel: 8-812-212-85-06">8-812-212-85-06</a>-->
                     </div>
                     <div>
-                        <p style="font-size: 16px;" class="m-0 text-white">© Аврора Консалтинг <?php echo date('Y') ?></p>
+                        <p style="font-size: 16px;" class="m-0 text-white">© Аврора Консалт <?php echo date('Y') ?></p>
                     </div>
                 </div>
             </div>

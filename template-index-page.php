@@ -232,7 +232,7 @@ Version: 1.0
     <div class="container text-center">
         <h2 class="text-center pb-5">Заказать звонок</h2>
         <p class="mb-0">Вы можете связаться с нами по телефону</p>
-        <h2 class="mb-2"><a class="text-decoration-none" style="color: #BF869C;" href="tel:8 (921) 212-85-06">8-921-212-85-06</a></h2>
+        <h2 class="mb-2"><a class="text-decoration-none" style="color: #BF869C;" href="tel:8-915-447-51-10">8-915-447-51-10</a></h2>
         <p>или мы сами свяжемся с вами, если вы оставите нам <br> свои данные:</p>
         <?php echo do_shortcode('[caldera_form id="CF5ef5edc5105af"]'); ?>
     </div>
